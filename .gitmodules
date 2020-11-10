@@ -7,3 +7,18 @@
 [submodule "drivers/staging/qcacld-3.0"]
 	path = drivers/staging/qcacld-3.0
 	url = https://android.googlesource.com/kernel/msm-modules/qcacld
+[submodule "techpack/audio"]
+	path = techpack/audio
+	url = https://android.googlesource.com/kernel/msm-extra
+[submodule "techpack/camera"]
+	path = techpack/camera
+	url = https://android.googlesource.com/kernel/msm-extra/camera-kernel
+[submodule "techpack/dataipa"]
+	path = techpack/dataipa
+	url = https://android.googlesource.com/kernel/msm-extra/dataipa
+[submodule "techpack/display"]
+	path = techpack/display
+	url = https://android.googlesource.com/kernel/msm-extra/display-drivers
+[submodule "techpack/video"]
+	path = techpack/video
+	url = https://android.googlesource.com/kernel/msm-extra/video-driver
